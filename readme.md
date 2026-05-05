@@ -85,4 +85,23 @@ node command TesteCommand
 - Servidor nginx: [http://localhost:8080](http://localhost:8080)
 
 ---
+
+### Como Executar o command do TF
+
+1. entrar na pasta correta:
+
+   ```sh
+   cd app/Command
+   ```
+
+### Executando o comando
+
+```sh
+node testeCreate.js
+
+node teteList.js
 ```
+
+
+```
+
